@@ -33,7 +33,7 @@ if ( isset($_POST['who']) && isset($_POST['pass']) ) {
 <html>
 <head>
 <?php require_once "bootstrap.php"; ?>
-<title>KABORE ABDOUL WAHABOU</title>
+<title>Abdoul-Wahabou KABORE Severance's Login Page</title>
 </head>
 <body>
 <div class="container">
@@ -57,7 +57,8 @@ if ( $failure !== false ) {
 <p>
 For a password hint, view source and find a password hint
 in the HTML comments.
-<!-- Hint: The password is the 3  character language we are learning (all lower case) followed by 123. -->
+<!-- Hint: The password is the four character sound a cat
+makes (all lower case) followed by 123. -->
 </p>
 </div>
 </body>
